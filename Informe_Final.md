@@ -78,5 +78,5 @@ El código calcula y compara el costo promedio de envío entre cuatro tiendas. P
 
 ## 2. Recomendaciones 🗣️
 
-El Sr. Juan debería vende la tienda 4 o 1, en caso de no poder conservar los costos de envio indudablemente debe vender la Tienda 4 priomodialmente✅.
+El Sr. Juan debería vende la tienda 4 o 1, en caso de no poder conservar los costos de envio indudablemente debe vender la Tienda 4 primordialmente✅.
 
